@@ -5,17 +5,17 @@
 <div align="center">
   
 ## 자기소개 🙂
+  
 <p>
   안녕하세요. 저는 중부대학교 정보보호학과 재학 중인 신준혁입니다. 👋<br/>
 </p>
-<br/>
-
-# ![0001GIF](https://github.com/JunHyeokShin/JunHyeokShin/assets/68908725/e324b710-4f8e-4e2c-8e84-347659075396)
+  
+![0001GIF](https://github.com/JunHyeokShin/JunHyeokShin/assets/68908725/e324b710-4f8e-4e2c-8e84-347659075396)
 
 ## 기술 스택 📱
 
 <p align="center">
-언어 🌏
+  언어 🌏
 </p>
 <p align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E/F7DF1E" alt="javascript" width=60>
@@ -34,7 +34,7 @@
   <img src="https://cdn.simpleicons.org/github/181717/fff" alt="github" width=60>
 </p>  
 <br/>
-  
+
 ## 연락하기 📭
 
 <p>
